@@ -98,6 +98,7 @@ Build the application for production:
 npm run build
 ```
 
+## 🙏 Acknowledgments
 
 - Powered by React and Vite
 - Styled with Tailwind CSS
